@@ -3,7 +3,7 @@
 title: Karolina Vasquez
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Karolina Vasquez
 
 # Full name (for SEO)
 first_name: Karolina
@@ -17,21 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graphic designer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Fundacion Universitaria Los Libertadores
+    url: https://www.ulibertadores.edu.co/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include web design, illustration, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital design
+  - Ux - Ui
+  - Illustration
 
 # Education to show in About widget
 education:
